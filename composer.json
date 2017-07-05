@@ -1,0 +1,12 @@
+{
+    "name": "wyl/envoy-manager",
+    "description": "envoy shell",
+    "type": "library",
+    "authors": [
+        {
+            "name": "chriswang",
+            "email": "chris.wang.web@gmail.com"
+        }
+    ],
+    "require": {}
+}
